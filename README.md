@@ -1,4 +1,4 @@
 # advanced-typescript-examples
 
 ## Slides
-https://slides.com/iruakabubi/advanced-typescrip
+https://slides.com/iruakabubi/advanced-typescript
